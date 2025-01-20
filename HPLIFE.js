@@ -217,6 +217,137 @@ WE CAN USE TOOLS LIKE THE HAVE METHOD.
 
 
 
-                             KANBAN METHODOLOGY
-                             
+                             KANBAN AGILE METHODOLOGY
+Kanban means visual cards and originates from Japan
+
+To use kanban you need to follow a structured process that begins with
+showing your work process visually and breaking down work into smaller tasks.
+
+Steps:
+A - Visualize the entire work flow
+
+   Create a kanban board.
+   The board shows aviasual display of the projects whole process from start to end.
+
+   You can choose between a physical board with sticky notes or an online tool
+   eg JIRA based on what the team likes and what the project requires. 
+
+   The board should have columns for;
+      - To Do
+      - In Progress
+      - Done
+   
+      This helps to view all tasks at any time for all team members.
+
+B - Break down the work flow into smaller tasks
+
+   Identify tasks that can be completed in one day.
+   These tasks should be small and simple.
+   Label the tasks with an Effort Estimate (EE) - how long it will take to complete the task.
+   The Effort Estimate is in hours.
+   Make sure to create a task for every user story.
+   Tasks should be broken down into smaller tasks.
+  
+   
+   TIP: Begin by listing all the tasks required to complete the project.
+
+   Next break down large tasks into smaller tasks that are manageable and can be completed within
+   a reasonable amount of time.
+
+   This helps to smoothen the flow of work through the Kanban system. 
+
+
+
+
+                       SWIM LANES
+
+ These are horizontal lines on your kanban board that help categorize into different 
+ priorities such as urgent, specific features or work for certain departments.
+ 
+ SWIM LANES:
+ - To Do
+-Doing
+- Done
+
+Each lane represents a priority level.
+
+The To Do lane is where you add tasks.
+
+The Doing lane is where tasks are actively worked on.
+
+The Done lane is where tasks are completed.
+
+When a task is moved from one lane to another, it moves through the Kanban process.
+
+You can move tasks from the To Do lane to the Doing lane and then to the Done lane.
+
+When a task is moved from the Doing lane to the Done lane, it is considered completed.
+
+This helps to ensure that tasks are completed in the correct order and that they are not overlooked.
+
+The Kanban process is continuously improving.
+
+It helps to maintain a healthy flow of work and reduces the risk of project delays.
+
+It also helps to maintain a high level of quality and efficiency.
+
+Remember to prioritize tasks and ensure that tasks are completed in the correct order.
+
+Remember that Kanban is a tool, not a method.
+
+Remember to use the Kanban process to improve your team's productivity and efficiency.
+
+
+Remember to prioritize tasks and ensure that tasks are completed in the correct order.
+
+
+
+                KANBAN PRINCIPLES
+
+A - LIMIT WORK IN PROGRESS
+
+Crucial for Kanban to work. 
+
+It is vital to establish a limit on the number of tasks permitted in each column to avoid delays
+blockages, and obstacles.
+
+B - TEAM POLICIES
+
+The team should agree on how work is organized
+
+Ensure that the team agrees on how tasks are moved from one column to another.
+
+C - SMART GOALS - Measure time spent to complete a full cycle.
+
+This helps to look for ways to shorten time spent and also helps with consistency.
+
+
+Kanban gives:
+- Access to project data & updates which promote openness & builds stronger commitment among
+the team.
+- A clear understanding of the project's progress.
+- Improved communication and collaboration among the team.
+- A better understanding of the project's requirements and the scope.
+- A visual representation of the work flow. This makes it easy to spot problems, optimize a solution
+and eliminate barriers.
+
+The result is;
+
+- A high level of quality and efficiency.
+- cost reduction
+- improved customer satisfaction.
+- reduced risk of project delays.
+
+
+Incorporate Agile in daily routines
+
+Start small
+
+Embrace MVP (minimum viable product) - This means that every release doesnt need to be
+perfect just good enough to invite feedback. 
+
+Create a backlog - List goals from short term to long term or high priority to low priority
+
+Create iterations - Prioritize list of goals/tasks. 
+
 */
