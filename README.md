@@ -5,7 +5,7 @@
 ### Historical Context
 In the past, project management primarily relied on the waterfall method, which was based on detailed upfront planning and phased execution. This method worked well for projects with fixed goals and clear requirements.
 
-During the 1980s, Agile methodologies were developed by Hirotaka Takeuchi and Ikujiro Nonaka. Agile focuses on delivering increments and adapting quickly to changing requirements. It encourages innovation, improves collaboration among team members, and allows for plan modification to overcome unexpected challenges and seize opportunities as they arise.
+Hirotaka Takeuchi and Ikujiro Nonaka developed Agile methodologies in the 1980s. Agile focuses on delivering increments and adapting quickly to changing requirements. It encourages innovation, improves collaboration among team members, and allows for plan modification to overcome unexpected challenges and seize opportunities as they arise.
 
 ### Core Principles
 The transition to Agile involves embracing change and ensuring the ability to adjust to new demands. Being open to change is considered a strength, not a problem. Agile prioritizes delivering tangible value and continuous improvement and is built on collaboration, trust, and respect for those doing the work.
