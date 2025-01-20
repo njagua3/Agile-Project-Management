@@ -183,5 +183,40 @@ Scrum board - A visual representation of the sprint process.
                       - Discussion of what went well and what needs to be improved.
                        - Team reflects on how to improve and adapt to the changes.
 
+ARTIFACTS
 
+Agile is based on the principle of customer value prioritization.
+
+Main concepts:
+  
+Product backlog - List of all features and stories that need to be developed to meet client needs.
+                 Prioritized by product owner.
+                 - Highest value items are pushed to the top of the list.
+
+We prioritize values using the backlog hierarchy
+
+       - EPICS - Large body of work
+       - Features - Epics broken down.
+       - User Stories - Within features we find stories that are a description of client needs
+       - Tasks - User stories broken down into smaller tasks.
+
+EPICS & FEATURES are simply a way of grouping user stories.
+
+Prioritize using stories.
+
+Focus on the most crucial project Tasks
+
+WE CAN USE TOOLS LIKE THE HAVE METHOD. 
+
+       - Must have - Non negotiable Features. If not available project fails
+       - Should have - Important & significant features
+       - Could have - Desirable features. Not crucial and could be added later.
+       - Won't have - Features that are not important.
+
+
+
+
+
+                             KANBAN METHODOLOGY
+                             
 */
