@@ -64,7 +64,124 @@ This creating one piece at a time. eg interface, buttons, etc
 
 We usually have the full idea formulated before development.
 
+AGILE VALUES AND PRINCIPLES
 
+ - Individuals & interactions over process and tools.
+
+ Having a good face to face  chat should accomplish more than impersonal forms of communication
+
+ - Working software over documentation.
+
+ Allowing a client to experiment with a version of a working product and provide feedback
+ to improve is better than docs.
+
+ - Customer collaboration over contract negotiation.
+
+ Collaborate with clients throughout the project with the intention of finding a solution together
+
+ - Responding to change over following a plan.
+  Murphy's Law - Anything that can go wrong will go wrong.
+
+  If something does not work it is more effective to respond to change and adjust
+  the project inline with any change to the situation.
+
+
+12 PRINCIPLES OF AGILE 
+For a project success and customer satisfaction
+
+- Early and continous delivery of value
+  highest value is delivery of product early for the sake of client satisfaction.
+
+- Welcome changing development even late in development.
+
+- Deliver working components frequently. Shorter timescale preferred.
+
+- Work with client daily
+
+- Trust and motivate the working team
+
+-Face 2 face conversation are effective for conveying information. Zoom meetings or in person.
+
+-Measure Success in terms of working components. 
+
+- Promote sustainable development. You need a constant pace for all team members
+
+- Good design and technical excellence. 
+
+- Maximize simplicity
+
+- Set the team to be self organizing. - This is how best solutions emerge. 
+
+- Make regular adjustments to the working process. - Reflect on how to be more efficient.
+
+
+
+                     SCRUM 
+ An Agile Methodology.
+ 
+ Inspired by rugby games.
+
+ It uses a sprint based approach to PM where teams work in defined cycles to deliver increment of product
+
+ This promotes adaptability & swift response to changes.
+
+ Scrum was initially developed for software development. 
+
+
+      SCRUM BUILDING BLOCKS
+A - ROLES
+     These are people who are essential to a team for a speedy delivery and technical profociency.
+     
+B - Ceremonies
+     These are the meetings where team members discuss, plan, and deliver.
+
+C - Artifacts
+     These are measurable documents that provide both strategic and technical direction of team
+
+Scrum master - Ensures the team has the support they need. He/she is responsible for team's health
+              - Figures out how much work a team can handle.
+              - ensures team members contribute to all important scrum meetings
+              - Helps the team to deliver work on time and within budget.
+              - Ensures that the team's needs are being met.
+               - Makes sure team is focused
+               - Organizes and leads the team to plan the work sprint
+
+Product backlog - List of all features and stories that need to be developed.
+                 - It is a shared source of truth.
+
+Sprint backlog - List of all features and stories that will be developed in a sprint.
+
+Product owner - Defines the product and the vision of the project.
+
+Development team - The team of developers with various skills.
+                  - They work on sprint backlog.
+                  - They are responsible for delivering increment of product.
+
+Scrum board - A visual representation of the sprint process.
+
+
+
+                  SCRUM PRACTICE
+1: Role assignment based on skills and project involvement. 
+2: Ceremonies - Meetings that help to align goals and share progress with team. 
+
+
+                   TYPES OF CEREMONIES
+1: Sprint Planning - 1st meeting on the scrum framework.
+                    - scrum team sizes the work to be done.
+                    - Discussion of initial planning.
+
+2: Daily Scrum - What did I complete yesterday
+               - What am I going to do today
+               - What blockers are there?
+
+3: Sprint Review - 
+               - Discussion of completed work and what needs to be done next.
+                - Team reflects on what has been done and what needs to be done.
+
+4: Sprint Retrospective - 
+                      - Discussion of what went well and what needs to be improved.
+                       - Team reflects on how to improve and adapt to the changes.
 
 
 */
